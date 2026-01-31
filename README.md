@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Assurez-vous d'avoir installé les extensions nécessaires pour le support Java dans VS Code.
 Étapes:
 
@@ -11,3 +12,6 @@ Assurez-vous d'avoir installé les extensions nécessaires pour le support Java 
 
 3. **Exécuter le fichier :**
    - Appuyez sur F5 ou cliquez sur le bouton de lancement pour exécuter votre fichier Java.
+=======
+# Snake
+>>>>>>> eab1d12bf086130d743c4294a99c75916f76ee4f
