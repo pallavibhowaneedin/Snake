@@ -1,17 +1,19 @@
-<<<<<<< HEAD
-Assurez-vous d'avoir installé les extensions nécessaires pour le support Java dans VS Code.
-Étapes:
-
-1. **Configurer le lancement (Run Configuration) :**
-   - Ouvrez le fichier a exécuter.
-   - Cliquez sur le bouton "Run" situé dans le coin supérieur droit de VS Code.
-
-2. **Sélectionner ou configurer la classe principale :**
-   - Si votre fichier Java contient une classe principale (avec une méthode `public static void main`), VS Code devrait la détecter automatiquement. Sinon, vous devrez spécifier la classe principale.
-   - Si aucune configuration n'existe, VS Code vous demandera de créer une configuration. Vous pouvez également créer manuellement une configuration de lancement dans le fichier `launch.json`.
-
-3. **Exécuter le fichier :**
-   - Appuyez sur F5 ou cliquez sur le bouton de lancement pour exécuter votre fichier Java.
-=======
 # Snake
->>>>>>> eab1d12bf086130d743c4294a99c75916f76ee4f
+
+## Running Java Files in Visual Studio Code
+
+Make sure you have the necessary Java extensions installed in VS Code.
+
+### Steps
+
+1. **Configure the Run Configuration**
+   - Open the Java file you want to execute.
+   - Click the **Run** button in the top-right corner of VS Code.
+
+2. **Select or Configure the Main Class**
+   - If your Java file contains a main class (with a `public static void main` method), VS Code should detect it automatically.
+   - If not, you will be prompted to select or create a run configuration.
+   - You can also manually configure the launch settings in the `launch.json` file.
+
+3. **Run the File**
+   - Press **F5** or click the **Run** button to execute the Java file.
